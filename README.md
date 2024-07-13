@@ -18,8 +18,8 @@ The Quizzler app allows users to take quizzes on various topics by retrieving qu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/atharva-ghorpade/Quizzler.git
-   cd Quizzler
+   git clone https://github.com/atharva-ghorpade/Quizzler-App.git
+   cd Quizzler-App
    
 ### How to Run
 
